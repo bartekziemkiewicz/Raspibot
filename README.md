@@ -1,4 +1,4 @@
 # Raspibot
 Aplikacja utworzona w ramach projektu Programowanie Zespołowe 2.0 realizowanego w latach 2017-2019 na Wydziale Matematyki i Informatyki UMK w ramach Programu Operacyjnego Wiedza Edukacja Rozwój
 
-![Robot](https://octodex.github.com/images/yaktocat.png)
+![Robot](https://github.com/bartekziemkiewicz/Raspibot/blob/master/DSC_0039.jpg?raw=true)
