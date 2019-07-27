@@ -3,6 +3,6 @@ Aplikacja utworzona w ramach projektu Programowanie Zespołowe 2.0 realizowanego
 
 ![Robot](https://github.com/bartekziemkiewicz/Raspibot/blob/master/DSC_0044.JPG)
 
-![Robot](https://github.com/bartekziemkiewicz/Raspibot/blob/master/DSC_0039.JPG)
+![Robot](https://github.com/bartekziemkiewicz/Raspibot/blob/master/DSC_0039r.JPG)
 
-![Robot](https://github.com/bartekziemkiewicz/Raspibot/blob/master/DSC_0040.JPG)
+![Robot](https://github.com/bartekziemkiewicz/Raspibot/blob/master/DSC_0040r.JPG)
